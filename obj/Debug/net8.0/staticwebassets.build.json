@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "PKUXLZzS2MWlV2qgvnDrCQNQq1FoehRNJLcOWolxbCM=",
+  "Source": "Project",
+  "BasePath": "_content/Project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Project\\wwwroot",
+      "Source": "Project",
+      "ContentRoot": "C:\\Users\\toanj\\Desktop\\ProjectBE\\wwwroot\\",
+      "BasePath": "_content/Project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
